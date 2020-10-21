@@ -9,4 +9,4 @@ new as being "good enough" for a DJ set or not.
 
 Current approach: Divide each song into 30 second clips, feed mel spectrogram into CNN with 3 convolutional layers, employ ensemble voting on each clip to determine final tag.
 
-** Validation accuracy is currently ~70%
+** Validation accuracy is currently ~70%, no test data yet.
